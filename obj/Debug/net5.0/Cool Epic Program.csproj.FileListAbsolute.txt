@@ -1,0 +1,16 @@
+C:\Users\micha\Desktop\Cool Epic Program\bin\Debug\net5.0\Cool Epic Program.exe
+C:\Users\micha\Desktop\Cool Epic Program\bin\Debug\net5.0\Cool Epic Program.deps.json
+C:\Users\micha\Desktop\Cool Epic Program\bin\Debug\net5.0\Cool Epic Program.runtimeconfig.json
+C:\Users\micha\Desktop\Cool Epic Program\bin\Debug\net5.0\Cool Epic Program.runtimeconfig.dev.json
+C:\Users\micha\Desktop\Cool Epic Program\bin\Debug\net5.0\Cool Epic Program.dll
+C:\Users\micha\Desktop\Cool Epic Program\bin\Debug\net5.0\ref\Cool Epic Program.dll
+C:\Users\micha\Desktop\Cool Epic Program\bin\Debug\net5.0\Cool Epic Program.pdb
+C:\Users\micha\Desktop\Cool Epic Program\obj\Debug\net5.0\Cool Epic Program.csprojAssemblyReference.cache
+C:\Users\micha\Desktop\Cool Epic Program\obj\Debug\net5.0\Cool Epic Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\Desktop\Cool Epic Program\obj\Debug\net5.0\Cool Epic Program.AssemblyInfoInputs.cache
+C:\Users\micha\Desktop\Cool Epic Program\obj\Debug\net5.0\Cool Epic Program.AssemblyInfo.cs
+C:\Users\micha\Desktop\Cool Epic Program\obj\Debug\net5.0\Cool Epic Program.csproj.CoreCompileInputs.cache
+C:\Users\micha\Desktop\Cool Epic Program\obj\Debug\net5.0\Cool Epic Program.dll
+C:\Users\micha\Desktop\Cool Epic Program\obj\Debug\net5.0\ref\Cool Epic Program.dll
+C:\Users\micha\Desktop\Cool Epic Program\obj\Debug\net5.0\Cool Epic Program.pdb
+C:\Users\micha\Desktop\Cool Epic Program\obj\Debug\net5.0\Cool Epic Program.genruntimeconfig.cache
