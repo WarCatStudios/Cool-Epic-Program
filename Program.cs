@@ -170,10 +170,54 @@ namespace Cool_Epic_Program
              {
                  Console.WriteLine(YTlist[i]);
              }
+             
+             Console.ReadKey();
+            Console.ForegroundColor = ConsoleColor.Gray;
 
+            Console.WriteLine("I made this thing that randomly generates 3 SCP(s) press enter to get your 3!");
+            Console.ReadKey();
 
+            Console.WriteLine("----------------");
+            SCP();
+            Console.WriteLine("----------------");
+            SCP();
+            Console.WriteLine("----------------");
+            SCP();
+            Console.ReadKey();
+            Console.ForegroundColor = ConsoleColor.Green;
+            Console.WriteLine("Im changing it back to green");
+            
+            Console.WriteLine("Imput two numbers you want to multiply");
+            Console.WriteLine("First Number");
+            int num03 = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Second Number");
+            int num04 = Convert.ToInt32(Console.ReadLine());
+            
+            multiply(num03, num04);
 
+            
+            
+            
+            
+            
+            
             Console.ReadKey();
         }
-    }
-}
+        static void SCP()
+        {
+          Random numberGenTwo = new Random();
+
+          string objectNum = "SCP-" + numberGenTwo.Next(1, 1000);
+
+          Console.WriteLine("The SCP that was choosen was " + objectNum);
+
+        }
+
+        static void multiply(int num01, int num02)
+        {
+            int product = num01 * num02;
+            Console.WriteLine("The result is: " + product);
+
+
+
+          
